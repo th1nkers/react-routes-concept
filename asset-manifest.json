@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-routes-concept/static/css/main.faca650b.css",
+    "main.js": "/react-routes-concept/static/js/main.97db91d3.js",
+    "index.html": "/react-routes-concept/index.html",
+    "main.faca650b.css.map": "/react-routes-concept/static/css/main.faca650b.css.map",
+    "main.97db91d3.js.map": "/react-routes-concept/static/js/main.97db91d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faca650b.css",
+    "static/js/main.97db91d3.js"
+  ]
+}
